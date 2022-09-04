@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritansh Bagal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritanshbagal&label=Profile%20views&color=0e75b6&style=flat" alt="ritanshbagal" /> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Data Structures And Algorithms,Flutter**
 
 - 👯 I’m looking to collaborate on **beginner flutter projects**
 
